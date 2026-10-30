@@ -1,6 +1,9 @@
-[
-  {
-    "name": "HandOfSeanProCiel",
-    "url": "https://github.com/RednIT2/font/raw/refs/heads/main/000HandOfSeanProiCiel-Regular.ttf"
-  }
-]
+{
+  "spec": 1,
+  "fonts": [
+    {
+      "name": "HandOfSeanProCiel",
+      "url": "https://github.com/RednIT2/font/raw/refs/heads/main/000HandOfSeanProiCiel-Regular.ttf"
+    }
+  ]
+}
